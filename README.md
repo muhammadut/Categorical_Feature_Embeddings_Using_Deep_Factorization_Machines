@@ -24,5 +24,26 @@ Categorical variables are often tricky to handle, especially when they are high-
 
 ## Get Started
 
-Dive into the notebooks, explore the code, and start extracting insightful embeddings from your categorical data. Contributions and feedback are always welcome!
+Dive into the notebook, explore the code, and start extracting insightful embeddings from your categorical data. Contributions and feedback are always welcome!
+
+
+
+
+## About DeepFM
+
+Deep Factorization Machines (DeepFM) is a hybrid algorithm that combines the merits of Factorization Machines (FMs) and Deep Neural Networks. It's designed to handle both low- and high-order feature interactions, making it a popular choice for complex tasks involving categorical variables.
+
+### What Makes DeepFM Unique?
+
+1. **Factorization Machines (FM) Component**: This part is tailored to capture low-order or linear feature interactions. It's particularly good for handling sparse data and high-cardinality categorical features.
+  
+2. **Deep Neural Network Component**: This part captures high-order and complex feature interactions, giving the model its ability to understand intricate patterns in the data.
+
+3. **Shared Input**: Both the FM and Deep components share the same input, allowing the model to learn both low- and high-level feature interactions simultaneously.
+
+### Why DeepFM in this Repository?
+
+In the context of this repository, DeepFM serves as an advanced tool for capturing complex relationships among categorical variables, which are then transformed into feature embeddings. These embeddings can significantly improve the performance and interpretability of downstream machine learning tasks.
+
+---
 
