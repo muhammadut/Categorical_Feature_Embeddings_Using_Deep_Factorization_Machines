@@ -1,0 +1,2 @@
+# Categorical_Feature_Embeddings_Deep_Factorization_Machines
+An example notebook to generate categorical feature embedding using DeepFM
