@@ -1,4 +1,4 @@
-# About This Repository: Extracting Categorical Feature Embeddings using DeepFM
+# Extracting Categorical Feature Embeddings using DeepFM
 
 ## Overview
 
