@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to this GitHub repository focused on leveraging DeepFM for extracting meaningful feature embeddings from categorical data. DeepFM combines the best of factorization machines and deep learning, making it a powerful tool for capturing both low- and high-order feature interactions. The notebook in this repo aims to provide a comprehensive guide, including basic code and some  documentation, to generate and utilize categorical feature embeddings for various real-world applications.
+Welcome to this GitHub repository focused on leveraging DeepFM for extracting meaningful feature embeddings from categorical data. DeepFM combines the best of factorization machines and deep learning, making it a powerful tool for capturing both low- and high-order feature interactions. The notebook in this repo aims to provide a starting guide, including basic code and some  documentation, to generate and utilize categorical feature embeddings for various real-world applications.
 
 ## Why Categorical Feature Embeddings?
 
